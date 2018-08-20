@@ -1,9 +1,8 @@
 package fractalTrees;
 
 import javafx.scene.canvas.GraphicsContext;
-import javafx.scene.shape.Path;
 
-public class FractalTree extends Path
+public class FractalTree
 {
 	private int branchLength;
 	private double branchAngle;
